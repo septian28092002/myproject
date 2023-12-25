@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Lat_UTS_Septian</string>
+
+    <string-array name="nama_baju">
+        <item>3Second</item>
+        <item>Sharks</item>
+        <item>Mars</item>
+        <item>Uniqlo</item>
+        <item>Balenciaga</item>
+        <item>Erigo</item>
+        <item>Nevada</item>
+        <item>Gucci</item>
+    </string-array>
+
+    <string-array name="alamat">
+        <item>Tegal</item>
+        <item>Semarang</item>
+        <item>Tegal</item>
+        <item>Semarang</item>
+        <item>Tegal</item>
+        <item>Semarang</item>
+        <item>Tegal</item>
+        <item>Semarang</item>
+    </string-array>
+    <string-array name="gambar_baju">
+        <item>@drawable/trisecond</item>
+        <item>@drawable/sharks</item>
+        <item>@drawable/mars</item>
+        <item>@drawable/uniqlo</item>
+        <item>@drawable/balenciaga</item>
+        <item>@drawable/erigo</item>
+        <item>@drawable/nevada</item>
+        <item>@drawable/gucci</item>
+
+    </string-array>
+    <string-array name="harga_baju">
+        <item>800000</item>
+        <item>500000</item>
+        <item>600000</item>
+        <item>300000</item>
+        <item>400000</item>
+        <item>250000</item>
+        <item>200000</item>
+        <item>120000</item>
+    </string-array>
+
+    <string-array name="keterangan">
+        <item>Baju 3 second mahal coy gada obat, menang merek doang</item>
+        <item>Baju sharks bahane bagus, cuman rada sumuk</item>
+        <item>Baju Mars cocok untuk lebaran di planet mars</item>
+        <item>Baju Uniqlo recommended bang, seriusan dah</item>
+        <item>Baju Balenciaga mahal ini bang, bahanya sama kaya 3 Second</item>
+        <item>Baju Erigo bagus, karya anak bangsa paling worth it</item>
+        <item>Baju Nevada, dapat diskon kalau mau lebaran di mall</item>
+        <item>Baju Gucci bukan baju pemandian air panas</item>
+    </string-array>
+
+
+</resources>
